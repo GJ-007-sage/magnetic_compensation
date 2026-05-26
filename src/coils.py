@@ -1,6 +1,6 @@
 import numpy as np
 
-from geometry import generate_rectangular_loop
+from .geometry import generate_rectangular_loop
 mm = 1e-3
 segments = 150
 
